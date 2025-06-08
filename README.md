@@ -1,0 +1,2 @@
+# btiai-python
+Python excercises 
